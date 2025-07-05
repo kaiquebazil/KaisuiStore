@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Fundo circular vermelho -->
+  <circle cx="50" cy="50" r="45" fill="#CC0000" />
+  
+  <!-- "K" ondulado (onda estilizada em branco) -->
+  <path d="M30 30 Q40 15 50 30 Q60 45 70 30 L75 35 Q60 50 75 65 L70 70 Q60 55 50 70 Q40 85 30 70 Z" fill="white" />
+</svg>
